@@ -16,7 +16,7 @@ Travelgo nace como una solución para viajeros que desean planificar, explorar y
 
 ## Autor
 
-Desarrollado por Brandon Espinosa, apasionado por la Programacion, la lógica estructurada y el diseño de paginas web. Este proyecto forma parte de su proceso de aprendizaje y consolidación en desarrollo móvil.
+Desarrollado por Michael Arboleda, apasionado por la Programacion, la lógica estructurada y el diseño de paginas web. Este proyecto forma parte de su proceso de aprendizaje y consolidación en desarrollo móvil.
 
 ## Tecnologías utilizadas
 
@@ -33,7 +33,7 @@ Desarrollado por Brandon Espinosa, apasionado por la Programacion, la lógica es
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/felipe0afk/MyApp.git
+   git clone https://github.com/MA3CO4GAMER/Ionic-App
    cd travelgo
 
 
@@ -51,4 +51,3 @@ Estructura del proyectosrc/
 ├── theme/         # Estilos globales
 
 Estado del proyectoEn desarrollo — funcionalidades principales implementadas, mejoras en curso.
-Muchas gracias por detenerte a leer, espero puedas disfrutas de mi proyecto cuando este finalizado.
